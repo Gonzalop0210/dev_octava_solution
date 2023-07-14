@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Fonts */
+    --font_montserrat: 'Montserrat', sans-serif;
+    --font_roboto: 'Roboto', sans-serif;
+    /* Colors */
+    --color_gray_titles: #4F4F4F;
+    --color_gray_paragraph: #828282;
+    --color_gray_subtitle: #333333;
+    --color_skayblue: #2F80ED;
+    --color_gray_white: #E0E0E0;
+    --color_white: #FFFFFF;
+    --color_background: #F4F4F4;
+}
